@@ -6,10 +6,10 @@ The program will prompt the user for their name and their choice of two words, i
 
 ## How to Run
 To run the Anagram Checker Application:
-Open the project in a Java development environment.
-Locate the AnagramCheckerApp class in the org.solution package.
-Run the main method in the AnagramCheckerApp class.
+- Open the project in a Java development environment.
+- Locate the AnagramCheckerApp class in the org.solution package.
+- Run the main method in the AnagramCheckerApp class.
 
 ## Assumptions:
-Users' names are treated as case sensitive. Therefore, John and john will be treated as separate users. 
-The anagram checker is case insensitive e.g., act and CAT would be classified as anagrams.
+- Users' names are treated as case sensitive. Therefore, John and john will be treated as separate users. 
+- The anagram checker is case insensitive e.g., act and CAT would be classified as anagrams.
